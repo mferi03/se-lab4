@@ -1,1 +1,2 @@
-usage: GT4500,<PRI_CNT>,<PRI_FAIL_RATE>,<SEC_CNT>,<SEC_FAIL_RATE> No ship has been initialized No ship has been initialized No ship has been initialized
+SUCCESS
+FAIL
