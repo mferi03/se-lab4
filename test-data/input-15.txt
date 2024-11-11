@@ -1,0 +1,2 @@
+GT4500,10,invalid_value,10,0.1
+TORPEDO,SINGLE
