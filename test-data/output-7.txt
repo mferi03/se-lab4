@@ -1,0 +1,2 @@
+SUCCESS
+Unknown command: 'INVALID_COMMAND'
